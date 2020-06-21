@@ -1,2 +1,4 @@
 # stepik---auto-tests-course
-HW from the course
+
+In this project I plan to add tasks from the excellent course:
+https://stepik.org/course/575/
